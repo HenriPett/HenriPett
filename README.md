@@ -8,4 +8,4 @@
 ### 🍿 I'm a content criator, go to my [YouTube](https://www.youtube.com/channel/UCAG2EmgIXa8sbGYSFnUAldQ) Channel and check it out! 
 ### 💼 [Linkedin](https://www.linkedin.com/in/henrique-pett) 
 ### 📸 [Instagram](https://www.instagram.com/henr_pett) 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/hnass-pe/badge42)
+[![hnass-pe's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/hnass-pe/badge42)
