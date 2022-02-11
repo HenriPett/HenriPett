@@ -1,6 +1,6 @@
 # Welcome to my profile, visitor!
 ## About me:
-### Hey there! I'm Henrique, an enthusiast in the Technology Area, mainly in Artificial Intelligence (AI). I'm currently working as a Full Stack Developer! In this account, I will push the newest projects that I worked on, be welcome to see all of them.
+### Hey there! I'm Henrique, an enthusiast in the Technology Area. I'm currently working as a Full Stack Developer! In this account, I will push the newest projects that I worked on in my free time, be welcome to see all of them.
 ### From Brazil, Santa Catarina 🇧🇷
 ### Cadet at [École 42](https://42.fr/en/homepage/)
 ### My [Portfolio](https://www.henr.dev/)
