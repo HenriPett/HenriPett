@@ -4,7 +4,7 @@
 ### Technologies used: Python, SQL, Machine Learning / Deep Learning tools, AWS services
 ### From Brazil, Santa Catarina 🇧🇷
 ### My [Portfolio](https://www.henr.dev/)
-### 💻 E-mail for contact: fifths.cruises07@icloud.com 
+### 💻 E-mail for contact: henriquepett@gmail.com 
 ### 🍿 I'm a content criator, go to my [YouTube](https://www.youtube.com/channel/UCAG2EmgIXa8sbGYSFnUAldQ) Channel and check it out! 
 ### 💼 [Linkedin](https://www.linkedin.com/in/henrique-pett) 
 ### 📸 [Instagram](https://www.instagram.com/henr_pett)
