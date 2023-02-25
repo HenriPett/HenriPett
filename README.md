@@ -1,6 +1,6 @@
 # Welcome to my profile, visitor!
 ## About me:
-### Hey there! I'm Henrique, an enthusiast in the Technology Area. I'm currently working as a Data Scientist! In this account, I will push the newest projects that I worked on in my free time, be welcome to see all of them.
+### Hey there! I'm Henrique, an enthusiast in the Technology Area. I'm currently working as a Machine Learning Engineer! In this account, I will push the newest projects that I worked on in my free time, be welcome to see all of them.
 ### Technologies used: Python, SQL, Machine Learning / Deep Learning tools, AWS services
 ### From Brazil, Santa Catarina 🇧🇷
 ### My [Portfolio](https://www.henr.dev/)
